@@ -1,0 +1,2 @@
+#!/bin/bash
+OBOBOBgrep ^[[:alpha:]] /etc/ssh/sshd_config
